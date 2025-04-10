@@ -1,5 +1,6 @@
 # Astro Starter Kitasdf: Blog
 
+1
 ```sh
 npm create astro@latest -- --template blog
 ```
